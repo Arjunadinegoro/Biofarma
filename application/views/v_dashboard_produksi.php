@@ -436,7 +436,7 @@ var chartSpeed = Highcharts.chart('container-speed', Highcharts.merge(gaugeOptio
   }]
 
 }));
-
+// ii
 // Bring life to the dials
 setInterval(function () {
   // Speed
